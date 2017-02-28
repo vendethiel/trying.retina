@@ -1,0 +1,4 @@
+^(?!mud)([aieouy]|(.))
+mud$#2$*a$&
+mudam([aeiyou])
+mud$1
